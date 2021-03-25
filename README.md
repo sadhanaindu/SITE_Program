@@ -44,6 +44,7 @@ Three Strikes and you are out displayed:
 ![](https://cdn.glitch.com/a1f5b5e9-57d7-467d-b297-40a2f8a188d4%2Fezgif.com-gif-maker.gif?v=1616653760712)
 
 All buttons are clicked correctly and you win:
+
 ![](https://cdn.glitch.com/a1f5b5e9-57d7-467d-b297-40a2f8a188d4%2Fezgif.com-video-to-gif.gif?v=1616653766253)
 
 
